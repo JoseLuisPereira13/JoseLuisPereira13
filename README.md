@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseLuisPereira13
 - 👀 I’m interested in new things,learn more and develope projects
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning laravel
 - 🤝 I’m looking to collaborate on python (web scrappers and desktop apps) , php websites and database sql related problems
 - 📫 How to reach me joseluispereira2004@gmail.com
